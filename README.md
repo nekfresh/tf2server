@@ -1,4 +1,4 @@
-# tf2serverconfig
+# Grawlix.tf 
 
 A custom server config for Team Fortress 2.
 
@@ -16,7 +16,7 @@ A custom server config for Team Fortress 2.
 * [Advertisements](https://forums.alliedmods.net/showthread.php?p=592536)
 * [Spray Tracer](https://forums.alliedmods.net/showthread.php?p=524881)
 
-### Members
+### Public
 * [Third Person](https://forums.alliedmods.net/showthread.php?p=1694178)
 * [MuteCheck](https://forums.alliedmods.net/showthread.php?p=1538106)
 
