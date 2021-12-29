@@ -12,7 +12,6 @@ A custom server config for Team Fortress 2.
 * [Anti-Ping Mask](https://forums.alliedmods.net/showthread.php?p=879751)
 * [Basic High Ping Kicker](https://forums.alliedmods.net/showthread.php?t=86525)
 * [Map Voting Tweaks](https://forums.alliedmods.net/showthread.php?p=2365858)
-* [Building Hats](https://forums.alliedmods.net/showthread.php?t=243705)
 * [Advertisements](https://forums.alliedmods.net/showthread.php?p=592536)
 * [Spray Tracer](https://forums.alliedmods.net/showthread.php?p=524881)
 
@@ -24,3 +23,4 @@ A custom server config for Team Fortress 2.
 * [Player Teleport](https://forums.alliedmods.net/showthread.php?p=1042766)
 * [Custom Chat Colours](https://forums.alliedmods.net/showthread.php?p=1721580)
 * [Resize Players](https://forums.alliedmods.net/showthread.php?p=1774605)
+* [Building Hats](https://forums.alliedmods.net/showthread.php?t=243705)
